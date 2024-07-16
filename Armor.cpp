@@ -442,8 +442,8 @@ bool Armor::IsBetterThan( Armor^ other, List_t< Ability^ >^ rel_abilities )
 		this->total_slots >= other->total_slots && highest_slot_level >= other->highest_slot_level && total_slot_level >= other->total_slot_level && slot_product >= other->slot_product && total_relevant_skill_points > 0 && other->total_relevant_skill_points == 0 )
 		return true;
 
-	if( SpecificAbility::nonelemental_boost->relevant && other->has_free_element )
-		return true;
+	//if( SpecificAbility::nonelemental_boost->relevant && other->has_free_element )
+	//	return true;
 
 	bool somewhat_worse = total_slots < other->total_slots || highest_slot_level < other->highest_slot_level || total_slot_level < other->total_slot_level || slot_product < other->slot_product;
 	
@@ -482,8 +482,8 @@ bool Armor::IsStrictlyBetterThan( Armor^ other )
 		this->slot_product < other->slot_product )
 		return false;
 
-	if( SpecificAbility::nonelemental_boost->relevant && this->has_free_element && !other->has_free_element )
-		return false;
+	//if( SpecificAbility::nonelemental_boost->relevant && this->has_free_element && !other->has_free_element )
+	//	return false;
 
 	int total_relevant_points = 0, other_total_relevant_points = 0;
 
