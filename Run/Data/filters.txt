@@ -32,5 +32,3 @@
 # There are a couple of rules set by default, but you can disable them by adding a # in front if you want.
 # You are also welcome to create your own, if you like.
 #
--Free Elem/Ammo Up,+Non-elemental Boost
-+Free Elem/Ammo Up,-Non-elemental Boost
