@@ -1,16 +1,13 @@
-I would like to thank the following people for their help and support.
-In no particular order:
+Athena's ASS creator:
 
-CodGod, mazereon, KiraNico, HotGamerMum, KenshinJeff, DevilTrigger, masax_mh,
-NegitiveFrags, Trojan, STL, GaijinHunter, ZenXacred, Lightphenix, Luxanji, Kibido.
+https://github.com/AthenaADP/MHW-ASS
 
-Also thanks to polarityplus for use of his art in the icon.
+Gatomiau (asdasdasdasdasdasd) for making it work with MHN data:
 
-Visit my Facebook page for updates and MH news. If you want to report any bugs,
-request features, or just say thanks, please do!
+https://next.nexusmods.com/profile/gatomiau/mods
 
-https://www.facebook.com/AthenasArmorSetSearch/
+Ray_999 from the MHN discord for giving me the excel file with the data, his account is gone but not forgotten.
 
-Finally, a shout-out to the ADP. You know who you are ;)
+gpie 4934 7268 7946 from the MHN discord for helping with the armor slots data.
 
-~ Athena ~
+NSA Cloud from the MHW Modding discord for helping me setup Visual Studio to mess with the program.
