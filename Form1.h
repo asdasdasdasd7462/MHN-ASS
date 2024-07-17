@@ -1055,35 +1055,12 @@ namespace MHWASS
 			// 
 			// groupBox1
 			// 
-			this->groupBox1->Controls->Add( this->nudWeaponSlots1 );
-			this->groupBox1->Controls->Add( this->nudWeaponSlots2 );
-			this->groupBox1->Controls->Add( this->lblSlots );
-			this->groupBox1->Controls->Add( this->nudWeaponSlots3 );
-			this->groupBox1->Controls->Add( this->nudHR );
-			this->groupBox1->Controls->Add( this->lblHR );
 			this->groupBox1->Location = System::Drawing::Point( 6, 27 );
 			this->groupBox1->Name = L"groupBox1";
 			this->groupBox1->Size = System::Drawing::Size( 206, 81 );
 			this->groupBox1->TabIndex = 0;
 			this->groupBox1->TabStop = false;
-			// 
-			// lblSlots
-			// 
-			this->lblSlots->AutoSize = true;
-			this->lblSlots->Location = System::Drawing::Point( 4, 48 );
-			this->lblSlots->Name = L"lblSlots";
-			this->lblSlots->Size = System::Drawing::Size( 74, 13 );
-			this->lblSlots->TabIndex = 4;
-			this->lblSlots->Text = L"Weapon Slots";
-			// 
-			// lblHR
-			// 
-			this->lblHR->AutoSize = true;
-			this->lblHR->Location = System::Drawing::Point( 4, 22 );
-			this->lblHR->Name = L"lblHR";
-			this->lblHR->Size = System::Drawing::Size( 64, 13 );
-			this->lblHR->TabIndex = 0;
-			this->lblHR->Text = L"Quest Level";
+			
 			// 
 			// grpSkills
 			// 
@@ -1453,17 +1430,7 @@ namespace MHWASS
 			this->mnuAbout->Size = System::Drawing::Size( 171, 22 );
 			this->mnuAbout->Text = L"&About";
 			this->mnuAbout->Click += gcnew System::EventHandler( this, &Form1::aboutToolStripMenuItem_Click );
-			// 
-			// grpGender
-			// 
-			this->grpGender->Controls->Add( this->rdoFemale );
-			this->grpGender->Controls->Add( this->rdoMale );
-			this->grpGender->Location = System::Drawing::Point( 6, 114 );
-			this->grpGender->Name = L"grpGender";
-			this->grpGender->Size = System::Drawing::Size( 154, 49 );
-			this->grpGender->TabIndex = 2;
-			this->grpGender->TabStop = false;
-			this->grpGender->Text = L"Gender";
+			
 			// 
 			// rdoFemale
 			// 
@@ -1571,10 +1538,7 @@ namespace MHWASS
 			this->mnuClearSkill->Name = L"mnuClearSkill";
 			this->mnuClearSkill->Size = System::Drawing::Size( 101, 22 );
 			this->mnuClearSkill->Text = L"&Clear";
-			// 
-			// tipWeaponSlots
-			// 
-			this->tipWeaponSlots->ToolTipTitle = L"Weapon Slots";
+			
 			// 
 			// tipSkills
 			// 
@@ -3099,12 +3063,12 @@ private:
 	
 	System::Void UpdateMenuItem_Click( System::Object^ sender, System::EventArgs^ e )
 	{
-		System::Diagnostics::Process::Start( "https://www.facebook.com/AthenasArmorSetSearch/" );
+		System::Diagnostics::Process::Start( "https://github.com/asdasdasdasd7462/MHN-ASS" );
 	}
 
 	System::Void mnuDonate_Click(System::Object^  sender, System::EventArgs^  e)
 	{
-		System::Diagnostics::Process::Start( "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=8A7BDLKN7ZK6W&lc=NZ&item_name=Athena%27s%20Armor%20Set%20Search&currency_code=NZD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" );
+		System::Diagnostics::Process::Start( "https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=Y5GUPH8JNXPVS&source=url&ssrt=1721173983329" );
 	}
 
 	System::Void mnuClearSettings_Click( System::Object^ sender, System::EventArgs^ e )
