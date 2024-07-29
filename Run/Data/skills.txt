@@ -63,3 +63,4 @@ Sleep Resistance,5,Resistance
 Bubbly Dance,3,Resistance
 Resuscitate,5,Resistance
 Rude Awakener,3,Offensive
+Mr Beast Challenge,1,Offensive
