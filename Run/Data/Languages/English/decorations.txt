@@ -39,5 +39,3 @@ Poison Resistance
 Paralysis Resistance
 Sleep Resistance
 Bleeding Resistance
-Critical Boost
-Dragon Attack
