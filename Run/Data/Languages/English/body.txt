@@ -29,3 +29,4 @@ Basarios Mail
 Khezu Mail
 Misutzune Mail
 Nightshade Mail
+Teostra Mail
