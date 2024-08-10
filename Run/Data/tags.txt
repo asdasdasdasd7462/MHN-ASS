@@ -3,4 +3,6 @@ Bow/Gunner
 Offensive
 Defensive
 Resistance
-Gathering
+Elemental
+Shelling
+Status

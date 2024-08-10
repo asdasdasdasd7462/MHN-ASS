@@ -1,6 +1,6 @@
 #Name,Max Level,Tags
-Aggressive Dodger,5,Offensive
-Artillery,5,Offensive
+Aggressive Dodger,5,Shelling
+Artillery,5,Shelling
 Attack Boost,5,Offensive
 Burst,5,Offensive
 Critical Boost,5,Offensive
@@ -15,28 +15,28 @@ Quick Work,3,Offensive
 Resentment,5,Offensive
 Rising Tide,5,Offensive
 Skyward Striker,5,Offensive
-Sneak Attack,5,Offensive
-Special Boost,5,Offensive
+Sneak Attack,5,Shelling
+Special Boost,5,Shelling
 Status Sneak Attack,5,Offensive
 Weakness Exploit,5,Offensive
-Fire Attack,5,Offensive
-Water Attack,5,Offensive
-Thunder Attack,5,Offensive
-Ice Attack,5,Offensive
-Dragon Attack,5,Offensive
-Poison Attack,5,Offensive
-Paralysis Attack,5,Offensive
-Sleep Attack,5,Offensive
-Hunter's Unity,1,Offensive
+Fire Attack,5,Elemental
+Water Attack,5,Elemental
+Thunder Attack,5,Elemental
+Ice Attack,5,Elemental
+Dragon Attack,5,Elemental
+Poison Attack,5,Status
+Paralysis Attack,5,Status
+Sleep Attack,5,Status
+Hunter's Unity,1,Shelling
 Solidarity,1,Offensive
-Happy New Year 2024,1,Gathering
+Happy New Year 2024,1,Offensive
 Artful Dodger,5,Offensive
 Concentration,5,Offensive
 Earplugs,5,Resistance
 Evade Extender,5,Resistance
 Evasive Concentration,5,Offensive
 Firm Foothold,3,Resistance
-Focus,5,Offensive
+Focus,5,Shelling
 Guard,5,Resistance
 Guts,5,Offensive
 Health Boost,5,Resistance
@@ -61,6 +61,8 @@ Poison Resistance,5,Resistance
 Paralysis Resistance,5,Resistance
 Sleep Resistance,5,Resistance
 Bubbly Dance,3,Resistance
-Resuscitate,5,Resistance
-Rude Awakener,3,Offensive
+Resuscitate,5,Shelling
+Rude Awakener,3,Shelling
 Mr Beast Challenge,1,Offensive
+Blast Attack,5,Elemental
+Teostra Blastpowder,3,Status
