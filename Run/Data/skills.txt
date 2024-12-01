@@ -66,3 +66,10 @@ Rude Awakener,3,Shelling
 Mr Beast Challenge,1,Offensive
 Blast Attack,5,Elemental
 Teostra Blastpowder,3,Status
+Defensive Loading,3,Offensive
+Hellfire Cloak,3,Offensive
+Fighting Spirit,5,Offensive
+Blast Resistance,5,Resistance
+Poison Exploit,5,Status
+Critical Element,5,Offensive
+Nergigante Avidity,3,Offensive
