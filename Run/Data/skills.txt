@@ -1,58 +1,68 @@
 #Name,Max Level,Tags
-Aggressive Dodger,5,Shelling
-Artillery,5,Shelling
-Attack Boost,5,Offensive
-Burst,5,Offensive
-Critical Boost,5,Offensive
-Critical Eye,5,Offensive
-Fortify,5,Offensive
-Heroics,5,Offensive
-Kushala Frostwind,3,Offensive
-Latent Power,5,Offensive
-Offensive Guard,5,Offensive
-Peak Performance,5,Offensive
-Quick Work,3,Offensive
-Resentment,5,Offensive
-Rising Tide,5,Offensive
-Skyward Striker,5,Offensive
-Sneak Attack,5,Shelling
-Special Boost,5,Shelling
-Status Sneak Attack,5,Offensive
-Weakness Exploit,5,Offensive
-Fire Attack,5,Elemental
-Water Attack,5,Elemental
-Thunder Attack,5,Elemental
-Ice Attack,5,Elemental
-Dragon Attack,5,Elemental
+Attack Boost,5,Attack
+Peak Performance,5,Attack
+Hellfire Cloak,3,Attack
+Rising Tide,5,Attack
+Burst,5,Attack
+Heroics,5,Attack
+Offensive Guard,5,Attack
+Fortify,5,Attack
+Resentment,5,Attack
+Sneak Attack,5,Attack
+Skyward Striker,5,Attack
+Resuscitate,5,Attack
+Fighting Spirit,5,Attack
+Rude Awakener,3,Attack
+Poison Exploit,5,Attack
+Artillery,5,Attack
+Special Boost,5,Attack
+Nergigante Avidity,3,Attack
+Critical Eye,5,Attack
+Weakness Exploit,5,Attack
+Critical Boost,5,Attack
+Latent Power,5,Attack
+Partbreaker,5,Attack
+Slugger,5,Attack
+Critical Ferocity,5,Attack
+Fire Attack,5,Element
+Water Attack,5,Element
+Thunder Attack,5,Element
+Ice Attack,5,Element
+Dragon Attack,5,Element
+Kushala Frostwind,3,Element
+Critical Element,5,Element
+Status Sneak Attack,5,Status
 Poison Attack,5,Status
 Paralysis Attack,5,Status
 Sleep Attack,5,Status
-Hunter's Unity,1,Shelling
-Solidarity,1,Offensive
-Happy New Year 2024,1,Offensive
-Artful Dodger,5,Offensive
-Concentration,5,Offensive
-Earplugs,5,Resistance
-Evade Extender,5,Resistance
-Evasive Concentration,5,Offensive
-Firm Foothold,3,Resistance
-Focus,5,Shelling
-Guard,5,Resistance
-Guts,5,Offensive
-Health Boost,5,Resistance
-Lock On,1,Offensive
-Partbreaker,5,Offensive
-Power Prolonger,5,Offensive
-Recoil Down,3,Bow/Gunner
-Reload Speed,3,Bow/Gunner
-Slugger,5,Offensive
-Special Insurance,5,Offensive
-Windproof,5,Resistance
-Bleeding Resistance,5,Resistance
+Blast Attack,5,Status
+Teostra Blastpowder,3,Status
+Focus,5,Action
+Quick Work,3,Action
+Reload Speed,3,Action
+Recoil Down,3,Action
+Firm Foothold,3,Action
+Evade Extender,5,Action
+Artful Dodger,5,Action
+Bubbly Dance,3,Action
+Power Prolonger,5,Action
+Defensive Loading,3,Action
+Concentration,5,Action
+Evasive Concentration,5,Action
+Lock On,1,Action
+Aggressive Dodger,5,Action
+Morph Boost,5,Action
+Evasive Reload,3,Action
 Defense Boost,5,Resistance
-Divine Blessing,5,Resistance
 Last Stand,5,Resistance
+Health Boost,5,Resistance
+Divine Blessing,5,Resistance
+Guts,5,Resistance
+Guard,5,Resistance
+Special Insurance,5,Resistance
+Earplugs,5,Resistance
 Tremor Resistance,3,Resistance
+Windproof,5,Resistance
 Fire Resistance,5,Resistance
 Water Resistance,5,Resistance
 Thunder Resistance,5,Resistance
@@ -60,16 +70,10 @@ Ice Resistance,5,Resistance
 Poison Resistance,5,Resistance
 Paralysis Resistance,5,Resistance
 Sleep Resistance,5,Resistance
-Bubbly Dance,3,Resistance
-Resuscitate,5,Shelling
-Rude Awakener,3,Shelling
-Mr Beast Challenge,1,Offensive
-Blast Attack,5,Elemental
-Teostra Blastpowder,3,Status
-Defensive Loading,3,Offensive
-Hellfire Cloak,3,Offensive
-Fighting Spirit,5,Offensive
+Bleeding Resistance,5,Resistance
 Blast Resistance,5,Resistance
-Poison Exploit,5,Status
-Critical Element,5,Offensive
-Nergigante Avidity,3,Offensive
+Shared Shield,5,Resistance
+Hunter's Unity,1,Misc
+Solidarity,1,Misc
+Happy New Year 2024,1,Misc
+Mr Beast Challenge,1,Misc
