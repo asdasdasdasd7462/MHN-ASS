@@ -1,56 +1,55 @@
-#Name,Skill1,Points1,Skill2,Points2,Acquire,Material1,Points1,Material2,Points2,Material3,Points3,Material4,Points4
-Iron Weapon,Poison Resistance,2,,,4,,,,,,,,
-Jagras Weapon,Health Boost,2,,,4,,,,,,,,
-Pukei Weapon,Sneak Attack,1,,,4,,,,,,,,
-Barroth Weapon,Defense Boost,2,,,4,,,,,,,,
-Girros Weapon,Sneak Attack,1,,,4,,,,,,,,
-Tobi Weapon,Evade Extender,1,,,4,,,,,,,,
-Paolumu Weapon,Divine Blessing,2,,,4,,,,,,,,
-Jyuratodus Weapon,Last Stand,1,,,4,,,,,,,,
-Anjanath Weapon,Rising Tide,1,,,4,,,,,,,,
-Rathian Weapon,Health Boost,2,,,4,,,,,,,,
-Legiana Weapon,Divine Blessing,2,,,4,,,,,,,,
-Rathalos Weapon,Earplugs,1,,,4,,,,,,,,
-Pink Rathian Weapon,Evade Extender,1,,,4,,,,,,,,
-Barioth Weapon,Evade Extender,1,,,4,,,,,,,,
-Zinogre Weapon,Artful Dodger,1,,,4,,,,,,,,
-Bone Weapon,Concentration,1,,,4,,,,,,,,
-Azure Rathalos Weapon,Special Boost,1,,,4,,,,,,,,
-Jho GL,Artillery,1,,,4,,,,,,,,
-Jho SNS,Skyward Striker,1,,,4,,,,,,,,
-Jho GS,Focus,1,,,4,,,,,,,,
-Jho LS,Quick Work,1,,,4,,,,,,,,
-Jho Hammer,Slugger,1,,,4,,,,,,,,
-Jho Lance,Offensive Guard,2,,,4,,,,,,,,
-Jho LBG,Rising Tide,2,,,4,,,,,,,,
-Jho Bow,Peak Performance,2,,,4,,,,,,,,
-Coral Pukei Weapon,Earplugs,1,,,4,,,,,,,,
-Khezu Weapon,Peak Performance,1,,,4,,,,,,,,
-Kushala Weapon,Hunter's Unity,1,Windproof,2,4,,,,,,,,
-Basarios Weapon,Heroics,1,,,4,,,,,,,,
-Mizutsune Weapon,Artful Dodger,1,,,4,,,,,,,,
-Nightshade Weapon,Sneak Attack,1,,,4,,,,,,,,
-Mr Beast SnS,Mr Beast Challenge,1,,,4,,,,,,,,
-Teostra Weapon,Hunter's Unity,1,Heroics,2,4,,,,,,,,
-Aknosom Weapon,Lock On,1,,,4,,,,,,,,
-Magnamalo Weapon,Partbreaker,1,,,4,,,,,,,,
-Rajang SNS,Slugger,2,,,4,,,,,,,,
-Rajang DB,Power Prolonger,2,,,4,,,,,,,,
-Rajang GS,Resentment,2,,,4,,,,,,,,
-Rajang LS,Focus,1,,,4,,,,,,,,
-Rajang Hammer,Partbreaker,1,,,4,,,,,,,,
-Rajang Lance,Burst,2,,,4,,,,,,,,
-Rajang GL,Defensive Loading,1,,,4,,,,,,,,
-Rajang CB,Quick Work,1,,,4,,,,,,,,
-Rajang LBG,Artillery,1,,,4,,,,,,,,
-Rajang Bow,Rising Tide,1,,,4,,,,,,,,
-Rajang HBG,Offensive Guard,2,,,4,,,,,,,,
-Black Diablos Weapon,Partbreaker,1,,,4,,,,,,,,
-Silverlos Weapon,Critical Element,2,,,4,,,,,,,,
-Goldian Weapon,Poison Exploit,2,,,4,,,,,,,,
-Nergigante Weapon,Hunter's Unity,1,Partbreaker,2,4,,,,,,,,
-Carnival 2024 Weapon,Defense Boost,2,,,4,,,,,,,,
-Tigrex Weapon,Critical Ferocity,1,,,4,,,,,,,,
-Lagombi Weapon,Lock On,1,,,4,,,,,,,,
-Volvidon Weapon,Evade Extender,1,,,4,,,,,,,,
-Somnacanth Weapon,Evade Extender,1,,,4,,,,,,,,
+Iron Weapon
+Jagras Weapon
+Pukei Weapon
+Barroth Weapon
+Girros Weapon
+Tobi Weapon
+Paolumu Weapon
+Jyuratodus Weapon
+Anjanath Weapon
+Rathian Weapon
+Legiana Weapon
+Rathalos Weapon
+Pink Rathian Weapon
+Barioth Weapon
+Zinogre Weapon
+Bone Weapon
+Azure Rathalos Weapon
+Jho GL
+Jho SNS
+Jho GS
+Jho LS
+Jho Hammer
+Jho Lance
+Jho LBG
+Jho Bow
+Coral Pukei Weapon
+Khezu Weapon
+Kushala Weapon
+Basarios Weapon
+Misutzune Weapon
+Nightshade Weapon
+Mr Beast SnS
+Teostra Weapon
+Aknosom Weapon
+Magnamalo Weapon
+Rajang SNS
+Rajang DB
+Rajang GS
+Rajang LS
+Rajang Hammer
+Rajang Lance
+Rajang GL
+Rajang CB
+Rajang LBG
+Rajang Bow
+Rajang HBG
+Black Diablos Weapon
+Silverlos Weapon
+Goldian Weapon
+Nergigante Weapon
+Carnival 2024 Weapon
+Tigrex Weapon
+Lagombi Weapon
+Volvidon Weapon
+Somnacanth Weapon

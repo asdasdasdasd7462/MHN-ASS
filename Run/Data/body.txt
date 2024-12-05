@@ -1,39 +1,43 @@
-#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skills 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
-Leather Mail,,4,1,1,1,1,1,1,1,1,1,1,Attack Boost,1,Fire Resistance,1,,,,,,,,,,
-Jagras Mail,,6,1,1,1,1,1,1,1,1,1,1,Rising Tide,2,,,,,,,,,,,,
-Kulu Mail,,6,1,2,1,1,1,1,1,1,1,1,Guts,2,,,,,,,,,,,,
-Alloy Mail,,6,1,1,1,1,1,1,1,1,1,1,Tremor Resistance,2,,,,,,,,,,,,
-Pukei Mail,,4,1,1,1,1,1,1,1,1,1,1,Poison Resistance,1,Focus,1,,,,,,,,,,
-Barroth Mail,,6,1,1,1,1,1,1,1,1,1,1,Offensive Guard,2,,,,,,,,,,,,
-Jyura Mail,,4,1,1,1,1,1,1,1,1,1,1,Water Attack,1,Last Stand,1,,,,,,,,,,
-Kadachi Mail,,4,1,1,1,1,1,1,1,1,1,1,Evade Extender,1,Thunder Attack,1,,,,,,,,,,
-Anja Mail,,6,1,1,1,1,1,1,1,1,1,1,Special Boost,2,,,,,,,,,,,,
-Rathian Mail,,6,1,1,1,1,1,1,1,1,1,1,Poison Attack,2,,,,,,,,,,,,
-Tzitzi Mail,,4,1,1,1,1,1,1,1,1,1,1,Status Sneak Attack,1,Artful Dodger,1,,,,,,,,,,
-Lumu Mail,,6,1,1,1,1,1,1,1,1,1,1,Recoil Down,2,,,,,,,,,,,,
-Girros Mail,,4,1,1,1,1,1,1,1,1,1,1,Paralysis Resistance,1,Sneak Attack,1,,,,,,,,,,
-Baan Mail,,6,1,1,1,1,1,1,1,1,1,1,Sleep Attack,1,Defense Boost,2,,,,,,,,,,
-Legiana Mail,,6,1,1,1,1,1,1,1,1,1,1,Divine Blessing,2,Windproof,1,,,,,,,,,,
-Odogaron Mail,,6,1,1,1,1,1,1,1,1,1,1,Critical Eye,2,Bleeding Resistance,1,,,,,,,,,,
-Rathalos Mail,,6,1,1,1,1,1,1,1,1,1,1,Weakness Exploit,2,,,,,,,,,,,,
-Diablos Mail,,6,1,1,1,1,1,1,1,1,1,1,Slugger,1,Heroics,1,,,,,,,,,,
-Rath Heart Mail α,,6,1,1,1,1,1,1,1,1,1,1,Dragon Attack,1,Focus,1,,,,,,,,,,
-Rath Soul Mail α,,6,1,1,1,1,1,1,1,1,1,1,Earplugs,2,Fire Attack,1,,,,,,,,,,
-Diablos Nero Mail α,,6,1,1,1,1,1,1,1,1,1,1,Resentment,2,Firm Foothold,1,,,,,,,,,,
-Banbaro Mail,,6,1,1,1,1,1,1,1,1,1,1,Concentration,1,Partbreaker,1,,,,,,,,,,
-Zinogre Mail,,6,1,1,1,1,1,1,1,1,1,1,Evasive Concentration,2,Thunder Resistance,1,,,,,,,,,,
-Barioth Mail,,6,1,1,1,1,1,1,1,1,1,1,Ice Resistance,1,Ice Attack,1,,,,,,,,,,
-Deviljho Mail,,6,1,1,1,1,1,1,1,1,1,1,Latent Power,2,,,,,,,,,,,,
-Coral Pukei Mail,,8,1,1,1,1,1,1,1,1,1,1,Power Prolonger,2,Rising Tide,1,,,,,,,,,,
-Kushala Mail α,,8,1,1,1,1,1,1,1,1,1,1,Kushala Frostwind,1,Partbreaker,1,Health Boost,1,,,,,,,,
-Basarios Mail,,6,1,1,1,1,1,1,1,1,1,1,Artillery,2,,,,,,,,,,,,
-Khezu Mail,,6,1,1,1,1,1,1,1,1,1,1,Thunder Attack,2,,,,,,,,,,,,
-Misutzune Mail,,6,1,2,1,1,1,1,1,1,1,1,Bubbly Dance,2,,,,,,,,,,,,
-Nightshade Mail,,8,1,1,1,1,1,1,1,1,1,1,Focus,2,Sleep Resistance,1,,,,,,,,,,
-Teostra Mail,,8,1,1,1,1,1,1,1,1,1,1,Teostra Blastpowder,1,Critical Eye,1,Artful Dodger,1,,,,,,,,
-Aknosom Mail,,6,1,1,1,1,1,1,1,1,1,1,Defensive Loading,1,Guard,1,,,,,,,,,,
-Magnamalo Mail,,6,1,1,1,1,1,1,1,1,1,1,Reload Speed,2,Blast Resistance,1,,,,,,,,,,
-Rajang Mail,,6,1,1,1,1,1,1,1,1,1,1,Fighting Spirit,1,Concentration,1,,,,,,,,,,
-Silverlos Mail,,8,1,1,1,1,1,1,1,1,1,1,Fire Attack,1,Critical Boost,1,,,,,,,,,,
-Goldian Mail,,8,1,1,1,1,1,1,1,1,1,1,Partbreaker,2,,,,,,,,,,,,
-Nergigante Mail,,8,1,1,1,1,1,1,1,1,1,1,Nergigante Avidity,1,Sneak Attack,1,Evade Extender,1,,,,,,,,
+﻿Leather Mail
+Jagras Mail
+Kulu Mail
+Alloy Mail
+Pukei Mail
+Barroth Mail
+Jyura Mail
+Kadachi Mail
+Anja Mail
+Rathian Mail
+Tzitzi Mail
+Lumu Mail
+Girros Mail
+Baan Mail
+Legiana Mail
+Odogaron Mail
+Rathalos Mail
+Diablos Mail
+Rath Heart Mail α
+Rath Soul Mail α
+Diablos Nero Mail α
+Banbaro Mail
+Zinogre Mail
+Barioth Mail
+Deviljho Mail
+Coral Pukei Mail
+Kushala Mail α
+Basarios Mail
+Khezu Mail
+Misutzune Mail
+Nightshade Mail
+Teostra Mail
+Aknosom Mail
+Magnamalo Mail
+Rajang Mail
+Silverlos Mail
+Goldian Mail
+Nergigante Mail
+Tigrex Mail
+Lagombi Mail
+Voldidon Mail
+Somnacanth Mail
+Carnival 2024 Mail

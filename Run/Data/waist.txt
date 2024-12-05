@@ -1,44 +1,43 @@
-#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skills 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
-Leather Waist,,4,1,1,1,1,1,1,1,1,1,1,Health Boost,1,Water Resistance,1,,,,,,,,,,
-Jagras Waist,,6,1,1,1,1,1,1,1,1,1,1,Fortify,2,Rising Tide,1,,,,,,,,,,
-Kulu Waist,,4,1,2,1,1,1,1,1,1,1,1,Last Stand,1,Evade Extender,1,,,,,,,,,,
-Alloy Waist,,8,1,1,1,1,1,1,1,1,1,1,Defense Boost,3,,,,,,,,,,,,
-Pukei Waist,,6,1,1,1,1,1,1,1,1,1,1,Poison Attack,2,,,,,,,,,,,,
-Barroth Waist,,4,1,1,1,1,1,1,1,1,1,1,Defense Boost,1,Guard,1,,,,,,,,,,
-Jyura Waist,,6,1,2,1,1,1,1,1,1,1,1,Water Resistance,2,,,,,,,,,,,,
-Kadachi Waist,,6,1,1,1,1,1,1,1,1,1,1,Thunder Attack,2,,,,,,,,,,,,
-Anja Waist,,6,1,1,1,1,1,1,1,1,1,1,Fire Resistance,1,Special Boost,1,,,,,,,,,,
-Rathian Waist,,6,1,1,1,1,1,1,1,1,1,1,Poison Resistance,1,Burst,1,,,,,,,,,,
-Tzitzi Waist,,4,1,1,1,1,1,1,1,1,1,1,Evade Extender,1,Status Sneak Attack,1,,,,,,,,,,
-Lumu Waist,,6,1,2,1,1,1,1,1,1,1,1,Divine Blessing,2,,,,,,,,,,,,
-Girros Waist,,6,1,1,1,1,1,1,1,1,1,1,Paralysis Attack,1,Earplugs,2,,,,,,,,,,
-Baan Waist,,6,1,1,1,1,1,1,1,1,1,1,Sleep Attack,2,,,,,,,,,,,,
-Legiana Waist,,6,1,1,1,1,1,1,1,1,1,1,Ice Attack,2,Windproof,1,,,,,,,,,,
-Odogaron Waist,,6,1,1,1,1,1,1,1,1,1,1,Critical Eye,1,Evasive Concentration,1,,,,,,,,,,
-Rathalos Waist,,6,1,1,1,1,1,1,1,1,1,1,Focus,1,Fire Attack,1,,,,,,,,,,
-Diablos Waist,,6,1,1,1,1,1,1,1,1,1,1,Partbreaker,1,Offensive Guard,1,,,,,,,,,,
-Rath Heart Waist α,,6,1,1,1,1,1,1,1,1,1,1,Critical Eye,2,,,,,,,,,,,,
-Rath Soul Waist α,,6,1,1,1,1,1,1,1,1,1,1,Special Boost,1,Critical Boost,1,,,,,,,,,,
-Diablos Nero Waist α,,6,1,1,1,1,1,1,1,1,1,1,Lock On,1,Heroics,1,,,,,,,,,,
-Banbaro Waist,,6,1,1,1,1,1,1,1,1,1,1,Attack Boost,2,Firm Foothold,1,,,,,,,,,,
-Zinogre Waist,,6,1,1,1,1,1,1,1,1,1,1,Artful Dodger,1,Reload Speed,1,,,,,,,,,,
-Barioth Waist,,6,1,1,1,1,1,1,1,1,1,1,Skyward Striker,1,Ice Resistance,1,,,,,,,,,,
-Deviljho Waist,,6,1,1,1,1,1,1,1,1,1,1,Dragon Attack,2,Tremor Resistance,1,,,,,,,,,,
-Coral Pukei Waist,,6,1,1,1,1,1,1,1,1,1,1,Reload Speed,1,Recoil Down,1,,,,,,,,,,
-Kushala Waist α,,6,1,1,1,1,1,1,1,1,1,1,Kushala Frostwind,1,Weakness Exploit,1,Windproof,1,,,,,,,,
-Basarios Waist,,6,1,1,1,1,1,1,1,1,1,1,Fire Attack,2,,,,,,,,,,,,
-Khezu Waist,,6,1,2,1,1,1,1,1,1,1,1,Paralysis Resistance,2,,,,,,,,,,,,
-Misutzune Waist,,6,1,1,1,1,1,1,1,1,1,1,Evasive Concentration,2,,,,,,,,,,,,
-Nightshade Waist,,6,1,1,1,1,1,1,1,1,1,1,Sneak Attack,2,Evade Extender,1,,,,,,,,,,
-Teostra Waist,,8,1,1,1,1,1,1,1,1,1,1,Teostra Blastpowder,1,Power Prolonger,1,Burst,1,,,,,,,,
-Aknosom Waist,,6,1,1,1,1,1,1,1,1,1,1,Critical Eye,1,Peak Performance,1,,,,,,,,,,
-Magnamalo Waist,,6,1,1,1,1,1,1,1,1,1,1,Blast Resistance,1,Hellfire Cloak,1,,,,,,,,,,
-Rajang Waist,,8,1,,1,1,1,1,1,1,1,1,Focus,3,,,,,,,,,,,,
-Silverlos Waist,,8,1,1,1,1,1,1,1,1,1,1,Windproof,2,,,,,,,,,,,,
-Goldian Waist,,8,1,1,1,1,1,1,1,1,1,1,Lock On,1,Resuscitate,1,,,,,,,,,,
-Nergigante Waist,,8,1,1,1,1,1,1,1,1,1,1,Nergigante Avidity,1,Attack Boost,1,Partbreaker,1,,,,,,,,
-Tigrex Waist,,8,1,1,1,1,1,1,1,1,1,1,Critical Ferocity,2,,,,,,,,,,,,
-Lagombi Waist,,6,1,1,1,1,1,1,1,1,1,1,Shared Shield,2,,,,,,,,,,,,
-Volvidon Waist,,6,1,1,1,1,1,1,1,1,1,1,Special Insurance,2,Fighting Spirit,1,,,,,,,,,,
-Somnacanth Waist,,6,1,1,1,1,1,1,1,1,1,1,Sleep Attack,1,Rude Awakener,1,,,,,,,,,,
-Carnival 2024 Waist,,6,1,1,1,1,1,1,1,1,1,1,Special Boost,2,,,,,,,,,,,,
+﻿Leather Waist
+Jagras Waist
+Kulu Waist
+Alloy Waist
+Pukei Waist
+Barroth Waist
+Jyura Waist
+Kadachi Waist
+Anja Waist
+Rathian Waist
+Tzitzi Waist
+Lumu Waist
+Girros Waist
+Baan Waist
+Legiana Waist
+Odogaron Waist
+Rathalos Waist
+Diablos Waist
+Rath Heart Waist α
+Rath Soul Waist α
+Diablos Nero Waist α
+Banbaro Waist
+Zinogre Waist
+Barioth Waist
+Deviljho Waist
+Coral Pukei Waist
+Kushala Waist α
+Basarios Waist
+Khezu Waist
+Misutzune Waist
+Nightshade Waist
+Teostra Waist
+Aknosom Waist
+Magnamalo Waist
+Rajang Waist
+Silverlos Waist
+Goldian Waist
+Nergigante Waist
+Tigrex Waist
+Lagombi Waist
+Volvidon Waist
+Somnacanth Waist
+Carnival 2024 Waist
