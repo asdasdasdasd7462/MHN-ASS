@@ -1,57 +1,68 @@
-Aggressive Dodger
-Artillery
+#Name,Max Level,Tags
 Attack Boost
-Burst
-Critical Boost
-Critical Eye
-Fortify
-Heroics
-Kushala Frostwind
-Latent Power
-Offensive Guard
 Peak Performance
-Quick Work
-Resentment
+Hellfire Cloak
 Rising Tide
-Skyward Striker
+Burst
+Heroics
+Offensive Guard
+Fortify
+Resentment
 Sneak Attack
+Skyward Striker
+Resuscitate
+Fighting Spirit
+Rude Awakener
+Poison Exploit
+Artillery
 Special Boost
-Status Sneak Attack
+Nergigante Avidity
+Critical Eye
 Weakness Exploit
+Critical Boost
+Latent Power
+Partbreaker
+Slugger
+Critical Ferocity
 Fire Attack
 Water Attack
 Thunder Attack
 Ice Attack
 Dragon Attack
+Kushala Frostwind
+Critical Element
+Status Sneak Attack
 Poison Attack
 Paralysis Attack
 Sleep Attack
-Hunter's Unity
-Solidarity
-Happy New Year 2024
-Artful Dodger
-Concentration
-Earplugs
-Evade Extender
-Evasive Concentration
-Firm Foothold
+Blast Attack
+Teostra Blastpowder
 Focus
-Guard
-Guts
-Health Boost
-Lock On
-Partbreaker
-Power Prolonger
-Recoil Down
+Quick Work
 Reload Speed
-Slugger
-Special Insurance
-Windproof
-Bleeding Resistance
+Recoil Down
+Firm Foothold
+Evade Extender
+Artful Dodger
+Bubbly Dance
+Power Prolonger
+Defensive Loading
+Concentration
+Evasive Concentration
+Lock On
+Aggressive Dodger
+Morph Boost
+Evasive Reload
 Defense Boost
-Divine Blessing
 Last Stand
+Health Boost
+Divine Blessing
+Guts
+Guard
+Special Insurance
+Earplugs
 Tremor Resistance
+Windproof
 Fire Resistance
 Water Resistance
 Thunder Resistance
@@ -59,16 +70,10 @@ Ice Resistance
 Poison Resistance
 Paralysis Resistance
 Sleep Resistance
-Bubbly Dance
-Resuscitate
-Rude Awakener
-Mr Beast Challenge
-Blast Attack
-Teostra Blastpowder
-Defensive Loading
-Hellfire Cloak
-Fighting Spirit
+Bleeding Resistance
 Blast Resistance
-Poison Exploit
-Critical Element
-Nergigante Avidity
+Shared Shield
+Hunter's Unity
+Solidarity
+Happy New Year 2024
+Mr Beast Challenge

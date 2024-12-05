@@ -1,11 +1,9 @@
 All
 Misc
 Related
-Blademaster
-Bow/Gunner
-Offensive
-Defensive
 Resistance
 Elemental
-Shelling
 Status
+Attack
+Element
+Action
